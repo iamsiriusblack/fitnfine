@@ -13,12 +13,12 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Admin
-    display_name: Admin
+  Pragati:
+    name: Pragati
+    display_name: Pragati
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: info@fitnfine.in
-    web: https://www.wowthemes.net
+    web: http://fitnfine.in
     twitter: https://twitter.com/wowthemesnet
     description: " Health And Wellness Coach"
   john:
