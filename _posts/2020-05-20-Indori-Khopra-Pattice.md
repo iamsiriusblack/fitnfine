@@ -3,7 +3,7 @@ layout: post
 title:  "Indori Khopra Pattice"
 author: Pragati
 categories: [ Food, Recipes, Indore, Cuisines, Central India ]
-image: assets/khopra.jpg
+image: assets/images/khopra.jpg
 featured: true
 hidden: false
 ---
